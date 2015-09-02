@@ -11,7 +11,7 @@ Profanity can be used in a variaty of ways, you can call the programm from your 
 type `profanity addWord <yourWord>` in your terminal. This adds an alias for that word in your ~/.bash_aliases file along the lines of `alias <yourWord>='profanity add <yourWord>';`. The next time you type your word in the terminal you will get a message telling you that Santa is watching your every move.
 
 #### To use Profanity like a basic l33t h4x0r:
-Profanity has multiple ways to increment on your naughty-words list. For example, you can type `Profanity <naughtyWord>` or `Profanity add <naughtyWord>`. Both ways are valid, and both ways will make Santa sad.
+Profanity has ~~multiple ways~~ only one way to increment on your naughty-words list. For example, you can type ~~`Profanity <naughtyWord>` or~~ `Profanity add <naughtyWord>`. ~~Both ways are~~ This way is valid, and ~~both ways~~  only this way will make Santa sad.
 
 ## How to use Profanity, the advanced commands:
 Profanity comes with an array of tools to get your no-no word-list, and a few tools to erase your very naughty past.
